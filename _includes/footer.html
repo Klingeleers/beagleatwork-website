@@ -1,0 +1,25 @@
+<!-- footer -->
+<footer class="bg-dark footer-section">
+    <div class="border-top text-center border-dark py-5">
+        <p class="mb-0 text-white">Volg ons op social media</p>
+        <div>
+            {% include follow-buttons.html %}
+        </div>
+
+        <p class="mb-0 text-white">{{site.data.settings.copyright}}</p>
+    </div>
+</footer>
+<!-- /footer -->
+
+
+<!-- JS Plugins -->
+{% for js in site.data.plugins.js %}
+<script src="{{ js | relative_url }}"></script>
+{% endfor %}
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+<!-- Main Script -->
+<script src="{{ '/assets/js/script.js' | relative_url }}?v={{ site.time | date:'%s' }}"></script>
+
+{% include lazyload.html %}

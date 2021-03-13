@@ -1,0 +1,11 @@
+.hero-area {
+  padding: 300px 0 50px;
+  position: relative;
+  @include tablet {
+    overflow: hidden;
+  }
+  h1{
+    position: relative;
+    z-index: 2;
+  }
+}

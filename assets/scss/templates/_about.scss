@@ -1,0 +1,21 @@
+.page-title-alt{
+  padding: 200px 0 50px;
+}
+
+.border-thick{
+  border: 10px solid;
+}
+
+.drag-lg-top{
+  margin-top: -230px;
+  @include desktop {
+    margin-top: 0;
+  }
+}
+
+.page-title-alt{
+  .container{
+    position: relative;
+    z-index: 1;
+  }
+}
