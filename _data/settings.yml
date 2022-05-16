@@ -59,11 +59,11 @@ blurb-btn-name: Over Beagle@work
 
 cooperation-title: Samenwerking
 cooperations:
-  - organization: Hondenschool Kitazz
-    logo: 'kitazz.jpg'
-    explanation: Wij werken samen met deze hondenschool, zodat onze leden indien gewenst ook de nodige ondersteuning kunnen krijgen op het gebied van gehoorzaamheid of andere hondensporten.
-    website: 'https://www.hondenschool-kitazz.be'
-    aspectratio: 1.06
+# - organization: Hondenschool Kitazz
+#   logo: 'kitazz.jpg'
+#   explanation: Wij werken samen met deze hondenschool, zodat onze leden indien gewenst ook de nodige ondersteuning kunnen krijgen op het gebied van gehoorzaamheid of andere hondensporten.
+#   website: 'https://www.hondenschool-kitazz.be'
+#   aspectratio: 1.06
 
   - organization: Searchdog@work
     logo: 'searchdog.jpg'
