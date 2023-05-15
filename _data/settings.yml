@@ -10,7 +10,7 @@ description: Beagle@work leidt beagles op als reddingshonden op recreatief nivea
 #youtube: https://youtu.be/beagle.work
 facebook_url: https://fb.com/beagle.work
 youtube_url: https://youtu.be/beagle.work
-copyright: Copyright &copy; 2020
+copyright: Copyright &copy; 2023
 
 menu:
 - {name: Over ons, link: '/over-ons'}
@@ -90,61 +90,61 @@ work-process:
 
 # My Team Section
 team:
-  - title : "Team Bailey"
-    image : "assets/images/team/bailey.jpg"
-    designation : "Danny<br />(hoofdtrainer)"
-
   - title : "Team Tenkie"
     image : "assets/images/team/tenkie.jpg"
-    designation : "Mieke en Kris<br />(trainer beginners)"
+    designation : "Mieke & Kris<br />(trainer)"
 
-  - title : "Team Juul"
+  - title : "Team Marly"
+    image : "assets/images/team/marly-300x300.jpg"
+    designation : "Eddy<br/>(trainer)"
+
+  - title : "Team Bailey"
+    image : "assets/images/team/bailey.jpg"
+    designation : "Danny"
+
+  - title : "Team Juul & Tuur"
     image : "assets/images/team/juul.jpg"
     designation : "Marjolein"
 
-  - title : "Team Nora"
-    image : "assets/images/team/nora-300x300.jpg"
+  - title : "Team Obi"
+    image : "assets/images/logo.jpg"
     designation : "Sarah"
 
-  - title : "Team Pixie"
-    image : "assets/images/team/pixie.jpg"
-    designation : "Bert"
+  - title : "Team Rover"
+    image : "assets/images/logo.jpg"
+    designation : "Paul"
 
-  - title : "Team Bikkel"
-    image : "assets/images/team/bikkel-300x300.jpg"
-    designation : "Nathalie"
+  #- title : "Team Bikkel"
+  #  image : "assets/images/team/bikkel-300x300.jpg"
+  #  designation : "Nathalie"
 
   - title : "Team Bootzy"
     image : "assets/images/team/bootsy-300x300.jpg"
     designation : "Peter"
 
-  - title : "Team Flappy"
-    image : "assets/images/team/flappy-300x300.jpg"
-    designation : "Ann"
+  - title : "Team Coco"
+    image : "assets/images/logo.jpg"
+    designation : "Paul"
 
-  - title : "Team Flo"
-    image : "assets/images/team/flo_kelly-300x300.jpg"
-    designation : "Kelly"
+  - title : "Team Bailey"
+    image : "assets/images/logo.jpg"
+    designation : "Joris"
 
   - title : "Team Flo"
     image : "assets/images/team/flo_tinne-300x300.jpg"
     designation : "Tinne"
 
-  - title : "Team Marly"
-    image : "assets/images/team/marly-300x300.jpg"
-    designation : "Eddy"
-
-  - title : "Team Pepper"
+  - title : "Team Max"
     image : "assets/images/logo.jpg"
-    designation : "Diethard"
+    designation : "Jens"
 
   - title : "Team Qobe"
     image : "assets/images/team/qobe-300x300.jpg"
     designation : "Diane en Fik"
 
-  - title : "Team Qyo"
-    image : "assets/images/team/qyo-300x300.jpg"
-    designation : "Carlo"
+  #- title : "Team Qyo"
+  #  image : "assets/images/team/qyo-300x300.jpg"
+  #  designation : "Carlo"
 
 #-------------------------------
 # Skills Section
