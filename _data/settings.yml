@@ -117,11 +117,11 @@ team:
     designation : "Marjolein"
 
   - title : "Team Obi"
-    image : "assets/images/logo.jpg"
+    image : "assets/images/team/obi.png"
     designation : "Sarah"
 
   - title : "Team Rover"
-    image : "assets/images/logo.jpg"
+    image : "assets/images/team/rover.png"
     designation : "Paul"
 
   #- title : "Team Bikkel"
@@ -133,11 +133,11 @@ team:
     designation : "Peter"
 
   - title : "Team Coco"
-    image : "assets/images/logo.jpg"
+    image : "assets/images/team/rover.png"
     designation : "Paul"
 
   - title : "Team Bailey"
-    image : "assets/images/logo.jpg"
+    image : "assets/images/team/bailey2.png"
     designation : "Joris"
 
   - title : "Team Flo"
@@ -145,7 +145,7 @@ team:
     designation : "Tinne"
 
   - title : "Team Max"
-    image : "assets/images/logo.jpg"
+    image : "assets/images/team/max.png"
     designation : "Jens"
 
   - title : "Team Qobe"
