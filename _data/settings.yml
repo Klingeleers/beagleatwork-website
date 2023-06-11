@@ -133,7 +133,7 @@ team:
     designation : "Peter"
 
   - title : "Team Coco"
-    image : "assets/images/team/rover.png"
+    image : "assets/images/team/coco.png"
     designation : "Paul"
 
   - title : "Team Bailey"
