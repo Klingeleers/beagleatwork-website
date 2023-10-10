@@ -136,9 +136,9 @@ team:
     image : "assets/images/team/coco.png"
     designation : "Paul"
 
-  - title : "Team Bailey"
-    image : "assets/images/team/bailey2.png"
-    designation : "Joris"
+#  - title : "Team Bailey"
+#    image : "assets/images/team/bailey2.png"
+#    designation : "Joris"
 
   - title : "Team Flo"
     image : "assets/images/team/flo_tinne-300x300.jpg"
