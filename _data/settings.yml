@@ -104,6 +104,7 @@ team:
     image : "assets/images/team/tenkie.jpg"
     designation : "Mieke & Kris<br />(trainer)"
 
+
   - title : "Team Marly"
     image : "assets/images/team/marly-300x300.jpg"
     designation : "Eddy<br/>(trainer)"
@@ -135,6 +136,7 @@ team:
   - title : "Team Coco"
     image : "assets/images/team/coco.png"
     designation : "Paul"
+
 
 #  - title : "Team Bailey"
 #    image : "assets/images/team/bailey2.png"
