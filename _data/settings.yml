@@ -133,7 +133,6 @@ team:
     designation : "Peter"
 
   - title : "Team Coco"
-
     image : "assets/images/team/coco2.jpeg"
     designation : "Paul"
 
@@ -146,9 +145,7 @@ team:
     designation : "Tinne"
 
   - title : "Team Max"
-
     image : "assets/images/team/max2.jpeg"
-
     designation : "Jens"
 
   - title : "Team Qobe"
