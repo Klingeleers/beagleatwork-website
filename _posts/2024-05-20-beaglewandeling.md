@@ -1,9 +1,9 @@
 ---
 title: Beaglewandeling 2024
-date: 2023-03-21T09:58:08+01:00
+date: 2024-05-20T09:58:08+01:00
 author: post
 layout: post
-permalink: /2023/03/beaglewandeling/
+permalink: /2024/03/beaglewandeling/
 image: /assets/images/blog/beaglewandeling-2024-poster.jpg
 image_thumb: /assets/images/blog/beaglewandeling-2024-poster.jpg
 categories:

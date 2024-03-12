@@ -1,9 +1,9 @@
 ---
 title: Wandelen voor het goede doel 2024
-date: 2023-03-21T09:58:08+01:00
+date: 2024-03-12T09:58:08+01:00
 author: post
 layout: post
-permalink: /2023/03/beaglewandeling/
+permalink: /2024/03/wandeling-bree/
 image: /assets/images/blog/wandeling-bree-2024.jpg
 image_thumb: /assets/images/blog/wandeling-bree-2024.jpg
 categories:
