@@ -118,7 +118,8 @@ team:
 
   - title : "Team Obi"
     image : "assets/images/team/obi2.jpeg"
-    designation : "Sara"
+    designation : "Sara<br/>(trainer)"
+
 
   - title : "Team Rover"
     image : "assets/images/team/rover2.jpeg"
